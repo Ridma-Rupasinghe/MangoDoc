@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104391357503",
+    "project_id": "mangomedix",
+    "storage_bucket": "mangomedix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104391357503:android:64b0317389a2cda986748a",
+        "android_client_info": {
+          "package_name": "com.mangomedix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAefUQ1bM79Emjhb2vdJ2Oxz-xV1p42d7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
